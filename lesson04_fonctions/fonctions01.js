@@ -1,6 +1,6 @@
 // une variables d'entrees de fonction est appellé un parametre
 // une fonction a 0 ou plusieurs parametres
-
+// tu donnes le nom que tu veux aux parametres d'entree, c'est comme declarer une variable avec 'let'
 function maFonctionSansParametres() {
     // fait des choses
     console.log("pif");
